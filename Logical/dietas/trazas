@@ -1,0 +1,263 @@
+TRUE
+CLIPS> (run)
+
+Dieta semanal de 2323.0 Kcal
+LUNS 
+Almorzo 1: arroz-con-leche: 128.05953693495 gr  muesli: 66.1613924050633 gr  pera: 129.264467826791 gr  aceite-palma: 13.5659065628476 gr
+Almorzo 2: cerdo-magro: 40.2057692307692 gr  palmera: 38.4652597402597 gr  sandia: 202.444542253521 gr
+Comida: crema-cacahuete: 49.1110426929393 gr  pechuga-pavo: 91.2607142857143 gr  aceite-palma: 13.5659065628476 gr  pimiento-rojo: 194.171732522796 gr
+Merenda: sandia: 134.963028169014 gr  leche-desnatada: 362.576351351351 gr  crema-cacahuete: 28.8944581280788 gr  
+Cena: grelo: 184.276442307692 gr  margarina-ligera: 34.0875 gr  patatas: 228.859220002718 gr  pechuga-pavo: 139.38 gr
+TOTAL:
+% proteinas: 18.5996818253401
+% hidratos de carbono: 35.1827130723559
+% graxas: 46.217605102304
+MARTES
+Almorzo 1: leche-de-cabra: 14.4677661169415 gr  arroz-integral: 6.20357142857143 gr  uva-blanca: 7.549786628734 gr  aceite-cacahuete: 1.12583333333333 gr
+Almorzo 2: langostino-cocido: 4.73727272727273 gr  pasta: 4.79811977715877 gr  pinha: 9.4104609929078 gr
+Comida: patatas: 33.7664764234271 gr  jamon-serrano: 5.85386029411765 gr  aceite-cacahuete: 1.12583333333333 gr  grelo: 25.5168269230769 gr
+Merenda: pinha: 6.27364066193854 gr  leche-de-cabra: 16.7102698650675 gr  almendra-sin-cascara: 2.39668032786885 gr  
+Cena: lechuga: 16.2474489795918 gr  margarina-ligera: 2.8320652173913 gr  almendra-sin-cascara: 2.29385245901639 gr  jamon-serrano: 8.94044117647059 gr
+TOTAL:
+% proteinas: 15.9851481745599
+% hidratos de carbono: 51.2484355491192
+% graxas: 32.766416276321
+MERCORES
+Almorzo 1: leche-entera: 14.7553516819572 gr  avena: 6.15084985835694 gr  cereza: 8.54532281436162 gr  aceite-oliva: 1.12708565072303 gr
+Almorzo 2: berberecho-conserva: 6.57124842370744 gr  croisant: 3.87956081081081 gr  melocoton: 9.40305118110236 gr
+Comida: garbanzo-conserva: 20.7072916666667 gr  caballa: 4.37431318681319 gr  aceite-oliva: 1.12708565072303 gr  lechuga: 27.0790816326531 gr
+Merenda: melocoton: 6.26870078740158 gr  leche-entera: 17.0424311926605 gr  garbanzo-conserva: 12.183125 gr  
+Cena: espinaca: 15.354387656702 gr  margarina-salada: 1.42377049180328 gr  lenteja: 4.60279605263158 gr  caballa: 6.68076923076923 gr
+TOTAL:
+% proteinas: 18.0435294744768
+% hidratos de carbono: 42.0195234908189
+% graxas: 39.9369470347043
+XOVES 
+Almorzo 1: batido-de-cacao: 11.4880952380952 gr  galleta-integral: 5.08489461358314 gr  platano: 5.58507839629591 gr  aceite-oliva-virgen: 1.12708565072303 gr
+Almorzo 2: ternera-magra: 3.97786259541985 gr  chocolate-puro: 3.38413555992141 gr  kiwi: 9.2215250965251 gr
+Comida: lenteja: 8.17393092105263 gr  huevo-gallina: 4.91435185185185 gr  aceite-oliva-virgen: 1.12708565072303 gr  espinaca: 25.5906460945034 gr
+Merenda: kiwi: 6.1476833976834 gr  batido-de-cacao: 13.26875 gr  tofu: 16.4082491582492 gr  
+Cena: coliflor: 11.5715843023256 gr  margarina-salada: 1.42377049180328 gr  tofu: 15.7042648709315 gr  huevo-gallina: 7.50555555555556 gr
+TOTAL:
+% proteinas: 17.5725324815071
+% hidratos de carbono: 37.1263388421409
+% graxas: 45.3011286763519
+VENRES 
+Almorzo 1: yogur-griego: 6.94244604316547 gr  pan-integral: 9.82466063348416 gr  mandarina: 11.8736017897092 gr  aceite-girasol: 1.12708565072303 gr
+Almorzo 2: mejillon: 7.2375 gr  pan-integral-tostado: 6.50009433962264 gr  manzana: 8.83274778106509 gr
+Comida: nuez-sin-cascara: 3.8287750385208 gr  atun-aceite-conserva: 3.82752403846154 gr  aceite-girasol: 1.12708565072303 gr  coliflor: 19.2859738372093 gr
+Merenda: manzana: 5.88849852071006 gr  yogur-griego: 8.01852517985611 gr  nuez-sin-cascara: 2.25265793528505 gr  
+Cena: calabacin: 13.7262931034483 gr  aceite-coco: 1.158 gr  uva-pasa: 4.64867109634552 gr  atun-aceite-conserva: 5.84567307692308 gr
+TOTAL:
+% proteinas: 13.9913066220518
+% hidratos de carbono: 31.359380969242
+% graxas: 54.6493124087062
+
+Dieta semanal de 1644.6 Kcal
+LUNS 
+Almorzo 1: batido-de-cacao: 97.8928571428571 gr  chocolate-puro: 36.3492141453831 gr  kiwi: 87.3098455598456 gr  aceite-coco: 9.5935 gr
+Almorzo 2: atun-aceite-conserva: 21.3481730769231 gr  pan-integral-tostado: 55.3888867924528 gr  manzana: 75.2659948224852 gr
+Comida: uva-pasa: 70.3462624584718 gr  mejillon: 94.221875 gr  aceite-coco: 9.5935 gr  calabacin: 194.941810344828 gr
+Merenda: manzana: 50.1773298816568 gr  batido-de-cacao: 113.06625 gr  uva-pasa: 41.3881893687708 gr  
+Cena: coliflor: 98.6042877906977 gr  aceite-girasol: 9.87857619577308 gr  nuez-sin-cascara: 18.3718798151002 gr  mejillon: 143.9025 gr
+TOTAL:
+% proteinas: 10.371382320758
+% hidratos de carbono: 56.7278076958357
+% graxas: 32.9008099834062
+MARTES
+Almorzo 1: leche-entera: 177.599388379205 gr  galleta-integral: 61.2031615925059 gr  platano: 67.2235083657792 gr  margarina-salada: 16.6608606557377 gr
+Almorzo 2: cerdo-magro: 40.2057692307692 gr  pan-integral: 93.8134615384615 gr  mandarina: 128.622483221477 gr
+Comida: nuez-sin-cascara: 46.0841679506934 gr  pechuga-pavo: 91.2607142857143 gr  margarina-salada: 16.6608606557377 gr  coliflor: 232.131177325581 gr
+Merenda: mandarina: 85.748322147651 gr  leche-entera: 205.127293577982 gr  anacardo: 30.4652441135734 gr  
+Cena: alcachofa: 87.3507292616226 gr  aceite-girasol: 13.9535038932147 gr  anacardo: 29.158154432133 gr  pechuga-pavo: 139.38 gr
+TOTAL:
+% proteinas: 15.7770917740398
+% hidratos de carbono: 30.5912643278618
+% graxas: 53.6316438980984
+MERCORES
+Almorzo 1: leche-de-cabra: 174.137931034483 gr  croisant: 58.8597972972973 gr  melocoton: 125.752952755906 gr  aceite-oliva-virgen: 13.5659065628476 gr
+Almorzo 2: langostino-cocido: 57.0190909090909 gr  muesli: 52.4880379746835 gr  pera: 116.338021044112 gr
+Comida: castanha: 157.413815789474 gr  jamon-serrano: 70.4586397058823 gr  aceite-oliva-virgen: 13.5659065628476 gr  alcachofa: 145.584548769371 gr
+Merenda: pera: 77.5586806960745 gr  leche-de-cabra: 201.129310344828 gr  castanha: 92.6143421052632 gr  
+Cena: berro: 189.75 gr  mantequilla: 13.9846153846154 gr  crema-cacahuete: 27.6547619047619 gr  jamon-serrano: 107.609558823529 gr
+TOTAL:
+% proteinas: 13.9313418778397
+% hidratos de carbono: 48.8363694796681
+% graxas: 37.2322886424922
+XOVES 
+Almorzo 1: leche-desnatada: 313.918918918919 gr  avena: 74.0332861189802 gr  cereza: 102.853807760425 gr  aceite-oliva: 13.5659065628476 gr
+Almorzo 2: berberecho-conserva: 79.093316519546 gr  palmera: 38.4652597402597 gr  sandia: 202.444542253521 gr
+Comida: crema-cacahuete: 49.1110426929393 gr  caballa: 52.6504120879121 gr  aceite-oliva: 13.5659065628476 gr  berro: 316.25 gr
+Merenda: sandia: 134.963028169014 gr  leche-desnatada: 362.576351351351 gr  patatas: 239.118426416633 gr  
+Cena: apio: 199.6328125 gr  mantequilla: 13.9846153846154 gr  patatas: 228.859220002718 gr  caballa: 80.4115384615385 gr
+TOTAL:
+% proteinas: 18.9932073036332
+% hidratos de carbono: 41.535941250738
+% graxas: 39.4708514456287
+VENRES 
+Almorzo 1: arroz-con-leche: 128.05953693495 gr  pasta: 72.7959610027855 gr  pinha: 125.852048857368 gr  margarina-ligera: 33.140625 gr
+Almorzo 2: ternera-magra: 47.8786259541985 gr  arroz-integral: 59.2365 gr  uva-blanca: 81.7841394025605 gr
+Comida: almendra-sin-cascara: 49.0305327868853 gr  huevo-gallina: 59.150462962963 gr  margarina-ligera: 33.140625 gr  apio: 332.721354166667 gr
+Merenda: uva-blanca: 54.522759601707 gr  arroz-con-leche: 147.908765159868 gr  almendra-sin-cascara: 28.8470901639344 gr  
+Cena: brecol: 116.15 gr  margarina: 17.3742382271468 gr  garbanzo-conserva: 140.347916666667 gr  huevo-gallina: 90.3388888888889 gr
+TOTAL:
+% proteinas: 12.3601300302448
+% hidratos de carbono: 45.1356355886515
+% graxas: 42.5042343811038
+
+Dieta semanal de 2666.0 Kcal
+LUNS 
+Almorzo 1: leche-desnatada: 360.27027027027 gr  palmera: 55.6447124304267 gr  sandia: 258.151408450704 gr  margarina: 19.3857340720222 gr
+Almorzo 2: huevo-gallina: 44.4333333333333 gr  arroz-integral: 67.983 gr  uva-blanca: 93.8598862019915 gr
+Comida: garbanzo-conserva: 286.039583333333 gr  ternera-magra: 83.9484732824427 gr  margarina: 19.3857340720222 gr  brecol: 222.166666666667 gr
+Merenda: uva-blanca: 62.5732574679943 gr  leche-desnatada: 416.112162162162 gr  garbanzo-conserva: 168.29125 gr  
+Cena: apio: 229.109375 gr  margarina-ligera: 39.1206521739131 gr  almendra-sin-cascara: 31.6860655737705 gr  ternera-magra: 128.212213740458 gr
+TOTAL:
+% proteinas: 19.2567926942408
+% hidratos de carbono: 47.1567954078958
+% graxas: 33.5864118978634
+MARTES
+Almorzo 1: leche-de-cabra: 123.28335832084 gr  avena: 52.4128895184136 gr  cereza: 72.8167766865239 gr  mantequilla: 9.62558528428093 gr
+Almorzo 2: atun-aceite-conserva: 21.3481730769231 gr  pasta: 40.8859470752089 gr  pinha: 80.188829787234 gr
+Comida: almendra-sin-cascara: 34.7118442622951 gr  mejillon: 94.221875 gr  mantequilla: 9.62558528428093 gr  apio: 235.5546875 gr
+Merenda: pinha: 53.459219858156 gr  leche-de-cabra: 142.39227886057 gr  tofu: 139.818686868687 gr  
+Cena: espinaca: 130.838476374156 gr  margarina-ligera: 24.1327173913044 gr  tofu: 133.819865319865 gr  mejillon: 143.9025 gr
+TOTAL:
+% proteinas: 17.0415258572237
+% hidratos de carbono: 38.0691911548171
+% graxas: 44.8892829879592
+MERCORES
+Almorzo 1: leche-entera: 125.733944954128 gr  muesli: 46.8398734177215 gr  pera: 91.5145690004047 gr  aceite-oliva: 9.60417130144605 gr
+Almorzo 2: cerdo-magro: 28.4642307692308 gr  chocolate-puro: 28.8370432220039 gr  kiwi: 78.578861003861 gr
+Comida: lenteja: 69.6520559210526 gr  pechuga-pavo: 64.6092857142857 gr  aceite-oliva: 9.60417130144605 gr  espinaca: 218.06412729026 gr
+Merenda: kiwi: 52.3859073359073 gr  leche-entera: 145.222706422018 gr  lenteja: 40.9797532894737 gr  
+Cena: lechuga: 138.448469387755 gr  aceite-cacahuete: 9.8676 gr  uva-pasa: 39.6124584717608 gr  pechuga-pavo: 98.676 gr
+TOTAL:
+% proteinas: 21.0939026315626
+% hidratos de carbono: 42.1348325884273
+% graxas: 36.77126478001
+XOVES 
+Almorzo 1: batido-de-cacao: 97.8928571428571 gr  croisant: 41.6706081081081 gr  melocoton: 89.0285433070866 gr  aceite-oliva-virgen: 9.60417130144605 gr
+Almorzo 2: langostino-cocido: 40.3674545454545 gr  pan-integral-tostado: 55.3888867924528 gr  manzana: 75.2659948224852 gr
+Comida: uva-pasa: 70.3462624584718 gr  jamon-serrano: 49.882169117647 gr  aceite-oliva-virgen: 9.60417130144605 gr  lechuga: 230.747448979592 gr
+Merenda: manzana: 50.1773298816568 gr  batido-de-cacao: 113.06625 gr  nuez-sin-cascara: 19.1954468412943 gr  
+Cena: grelo: 130.461057692308 gr  aceite-cacahuete: 9.8676 gr  nuez-sin-cascara: 18.3718798151002 gr  jamon-serrano: 76.1836764705882 gr
+TOTAL:
+% proteinas: 13.0891847029328
+% hidratos de carbono: 47.7387104808888
+% graxas: 39.1721048161784
+VENRES 
+Almorzo 1: yogur-griego: 59.158273381295 gr  pan-integral: 83.7183257918552 gr  mandarina: 101.177852348993 gr  aceite-girasol: 9.60417130144605 gr
+Almorzo 2: berberecho-conserva: 55.9952080706179 gr  galleta-integral: 34.3748360655738 gr  platano: 42.8326318004841 gr
+Comida: anacardo: 36.658976800554 gr  caballa: 37.2745879120879 gr  aceite-girasol: 9.60417130144605 gr  grelo: 217.435096153846 gr
+Merenda: platano: 28.5550878669894 gr  yogur-griego: 68.3278057553957 gr  anacardo: 21.5682912049861 gr  
+Cena: pimiento-rojo: 82.4799392097265 gr  aceite-palma: 9.87857619577308 gr  castanha: 62.7544736842105 gr  caballa: 56.9284615384615 gr
+TOTAL:
+% proteinas: 14.933586756841
+% hidratos de carbono: 31.9758873411938
+% graxas: 53.0905259019652
+
+Dieta semanal de 1506.5 Kcal
+LUNS 
+Almorzo 1: batido-de-cacao: 89.6726190476191 gr  pan-integral-tostado: 63.9551886792453 gr  manzana: 76.6064164201184 gr  aceite-palma: 8.79769187986652 gr
+Almorzo 2: caballa: 22.3491758241758 gr  galleta-integral: 31.4883196721311 gr  platano: 39.2358991897296 gr
+Comida: castanha: 102.085197368421 gr  berberecho-conserva: 78.3645964691047 gr  aceite-palma: 8.79769187986652 gr  pimiento-rojo: 125.923252279635 gr
+Merenda: platano: 26.1572661264864 gr  batido-de-cacao: 103.571875 gr  castanha: 60.0617763157895 gr  
+Cena: grelo: 119.506009615385 gr  aceite-girasol: 9.04905450500556 gr  anacardo: 18.9094961911357 gr  berberecho-conserva: 119.684110970996 gr
+TOTAL:
+% proteinas: 13.6560046581206
+% hidratos de carbono: 54.0153804748279
+% graxas: 32.3286148670515
+MARTES
+Almorzo 1: leche-entera: 203.822629969419 gr  croisant: 67.5506756756757 gr  melocoton: 144.320866141732 gr  aceite-cacahuete: 15.5516666666667 gr
+Almorzo 2: huevo-gallina: 44.4333333333333 gr  pan-integral: 107.665384615385 gr  mandarina: 147.614093959732 gr
+Comida: anacardo: 59.426506232687 gr  ternera-magra: 83.9484732824427 gr  aceite-cacahuete: 15.5516666666667 gr  grelo: 352.475961538462 gr
+Merenda: mandarina: 98.4093959731544 gr  leche-entera: 235.415137614679 gr  patatas: 274.42519364044 gr  
+Cena: berro: 217.767326732673 gr  aceite-girasol: 16.0137931034483 gr  patatas: 262.651175431444 gr  ternera-magra: 128.212213740458 gr
+TOTAL:
+% proteinas: 13.6739788583711
+% hidratos de carbono: 39.7752097305084
+% graxas: 46.5508114111205
+MERCORES
+Almorzo 1: leche-de-cabra: 199.850074962519 gr  chocolate-puro: 58.9243614931238 gr  kiwi: 141.534749034749 gr  aceite-oliva-virgen: 15.5689655172414 gr
+Almorzo 2: atun-aceite-conserva: 34.6067307692308 gr  palmera: 44.1448051948052 gr  sandia: 232.336267605634 gr
+Comida: crema-cacahuete: 56.3624794745485 gr  mejillon: 152.739583333333 gr  aceite-oliva-virgen: 15.5689655172414 gr  berro: 362.945544554456 gr
+Merenda: sandia: 154.890845070423 gr  leche-de-cabra: 230.826836581709 gr  crema-cacahuete: 33.1608374384236 gr  
+Cena: alcachofa: 100.248404740201 gr  margarina-salada: 19.6672131147541 gr  garbanzo-conserva: 161.070833333333 gr  mejillon: 233.275 gr
+TOTAL:
+% proteinas: 14.9402940334938
+% hidratos de carbono: 26.3136043296838
+% graxas: 58.7461016368224
+XOVES 
+Almorzo 1: leche-desnatada: 360.27027027027 gr  muesli: 75.9303797468354 gr  pera: 148.35087009308 gr  aceite-oliva: 15.5689655172414 gr
+Almorzo 2: cerdo-magro: 46.1423076923077 gr  arroz-integral: 67.983 gr  uva-blanca: 93.8598862019915 gr
+Comida: garbanzo-conserva: 286.039583333333 gr  pechuga-pavo: 104.735714285714 gr  aceite-oliva: 15.5689655172414 gr  alcachofa: 167.080674567001 gr
+Merenda: uva-blanca: 62.5732574679943 gr  leche-desnatada: 416.112162162162 gr  almendra-sin-cascara: 33.1064754098361 gr  
+Cena: coliflor: 159.84375 gr  margarina-salada: 19.6672131147541 gr  almendra-sin-cascara: 31.6860655737705 gr  pechuga-pavo: 159.96 gr
+TOTAL:
+% proteinas: 21.2209774576795
+% hidratos de carbono: 45.4042971141038
+% graxas: 33.3747254282167
+VENRES 
+Almorzo 1: arroz-con-leche: 146.96802646086 gr  pasta: 83.5445682451253 gr  pinha: 144.434594168637 gr  margarina-ligera: 38.0339673913043 gr
+Almorzo 2: langostino-cocido: 65.4381818181818 gr  avena: 67.4052407932011 gr  cereza: 106.23651585896 gr
+Comida: tofu: 385.23849607183 gr  jamon-serrano: 80.8621323529412 gr  margarina-ligera: 38.0339673913043 gr  coliflor: 266.40625 gr
+Merenda: cereza: 70.8243439059733 gr  arroz-con-leche: 169.748070562293 gr  tofu: 226.654882154882 gr  
+Cena: calabacin: 189.60775862069 gr  aceite-coco: 15.996 gr  lenteja: 63.5805921052632 gr  jamon-serrano: 123.498529411765 gr
+TOTAL:
+% proteinas: 22.0090457613365
+% hidratos de carbono: 44.9394650129008
+% graxas: 33.0514892257626
+
+Dieta semanal de 193 Kcal
+LUNS 
+Almorzo 1: leche-desnatada: 26.0810810810811 gr  arroz-integral: 6.20357142857143 gr  uva-blanca: 7.549786628734 gr  aceite-coco: 1.12583333333333 gr
+Almorzo 2: jamon-serrano: 3.83161764705882 gr  avena: 4.87967422096317 gr  cereza: 7.69079053292546 gr
+Comida: lenteja: 8.17393092105263 gr  langostino-cocido: 7.2375 gr  aceite-coco: 1.12583333333333 gr  calabacin: 22.8771551724138 gr
+Merenda: cereza: 5.12719368861697 gr  leche-desnatada: 30.1236486486486 gr  lenteja: 4.80912828947368 gr  
+Cena: coliflor: 11.5715843023256 gr  margarina-ligera: 2.8320652173913 gr  tofu: 15.7042648709315 gr  langostino-cocido: 11.0536363636364 gr
+TOTAL:
+% proteinas: 25.1424767164083
+% hidratos de carbono: 53.5081112942348
+% graxas: 21.3494119893569
+MARTES
+Almorzo 1: leche-de-cabra: 112.931034482759 gr  muesli: 42.9066455696203 gr  pera: 83.829927154998 gr  margarina-salada: 10.8048155737705 gr
+Almorzo 2: caballa: 22.3491758241758 gr  pasta: 37.4526810584958 gr  pinha: 73.4552304964539 gr
+Comida: tofu: 217.690095398429 gr  berberecho-conserva: 78.3645964691047 gr  margarina-salada: 10.8048155737705 gr  coliflor: 150.540515988372 gr
+Merenda: pinha: 48.9701536643026 gr  leche-de-cabra: 130.435344827586 gr  nuez-sin-cascara: 17.5835708782743 gr  
+Cena: lechuga: 126.822704081633 gr  margarina-ligera: 22.10625 gr  nuez-sin-cascara: 16.8291602465331 gr  berberecho-conserva: 119.684110970996 gr
+TOTAL:
+% proteinas: 19.1097289435109
+% hidratos de carbono: 37.3988470762508
+% graxas: 43.4914239802383
+MERCORES
+Almorzo 1: leche-entera: 115.175840978593 gr  palmera: 31.4436456400742 gr  sandia: 145.87588028169 gr  aceite-oliva: 8.79769187986652 gr
+Almorzo 2: huevo-gallina: 25.1083333333333 gr  pan-integral-tostado: 50.7377830188679 gr  manzana: 68.9457747781065 gr
+Comida: uva-pasa: 64.4391611295681 gr  ternera-magra: 47.4375 gr  aceite-oliva: 8.79769187986652 gr  lechuga: 211.371173469388 gr
+Merenda: manzana: 45.963849852071 gr  leche-entera: 133.028096330275 gr  uva-pasa: 37.9127491694352 gr  
+Cena: espinaca: 119.851735776278 gr  mantequilla: 9.06923076923077 gr  castanha: 57.4848684210526 gr  ternera-magra: 72.45 gr
+TOTAL:
+% proteinas: 10.82849936857
+% hidratos de carbono: 53.9371749515489
+% graxas: 35.2343256798811
+XOVES 
+Almorzo 1: batido-de-cacao: 89.6726190476191 gr  chocolate-puro: 33.296905697446 gr  kiwi: 79.9782818532819 gr  aceite-oliva-virgen: 8.79769187986652 gr
+Almorzo 2: atun-aceite-conserva: 19.5555288461538 gr  galleta-integral: 31.4883196721311 gr  platano: 39.2358991897296 gr
+Comida: castanha: 102.085197368421 gr  mejillon: 86.3098958333333 gr  aceite-oliva-virgen: 8.79769187986652 gr  espinaca: 199.752892960463 gr
+Merenda: platano: 26.1572661264864 gr  batido-de-cacao: 103.571875 gr  anacardo: 19.7571632617728 gr  
+Cena: apio: 129.46484375 gr  mantequilla: 9.06923076923077 gr  anacardo: 18.9094961911357 gr  mejillon: 131.81875 gr
+TOTAL:
+% proteinas: 11.2644873449558
+% hidratos de carbono: 42.679867086612
+% graxas: 46.0556455684322
+VENRES 
+Almorzo 1: yogur-griego: 54.1906474820144 gr  pan-integral: 76.6883484162896 gr  mandarina: 92.6817673378076 gr  aceite-girasol: 8.79769187986652 gr
+Almorzo 2: cerdo-magro: 26.0740384615385 gr  croisant: 30.2826858108108 gr  melocoton: 73.3973917322835 gr
+Comida: patatas: 263.570967522761 gr  pechuga-pavo: 59.1839285714286 gr  aceite-girasol: 8.79769187986652 gr  apio: 215.774739583333 gr
+Merenda: melocoton: 48.931594488189 gr  yogur-griego: 62.5901978417266 gr  patatas: 155.071850794945 gr  
+Cena: brecol: 75.325 gr  margarina: 11.2674515235457 gr  crema-cacahuete: 17.9345238095238 gr  pechuga-pavo: 90.39 gr
+TOTAL:
+% proteinas: 16.2324549121306
+% hidratos de carbono: 50.3301861555307
+% graxas: 33.4373589323387
+CLIPS> (dribble-off)

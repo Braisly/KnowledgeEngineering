@@ -1,0 +1,12 @@
+*************************************************************
+	Enxañaría do Coñecemento
+	Actividades: 1-5
+	Autor: Brais López Yáñez
+*************************************************************
+
+
+- Las actividades se encuentran clasificadas por carpetas, desde la 1 a la 5.
+
+- En cada actividad, pueden existir varias versiones (o no). Estando todas clasificadas por vx, correspondiendo x a un número indicando la versión. Cuanto más mayor, más se aproxima a la versión final.
+  Siendo vFINAL, como el último programa probado y ejecutado, correspondiendo a la última parte de los ejercicios. 
+	
